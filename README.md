@@ -36,5 +36,5 @@ My long-term goal is to work at the intersection of **computer engineering and h
 
 ## Connect With Me
 
-- LinkedIn: [Kerolos Roufaeil](https://www.linkedin.com/in/kerolos-roufaeil-a4b721419)
+- LinkedIn: [Kerolos Roufaeil](www.linkedin.com/in/kerolos-roufaeil)
 - GitHub: [@kerolosfan](https://github.com/kerolosfan)
