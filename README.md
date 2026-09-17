@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kero 👋
 
-<!--
-**kerolosfan/Kerolosfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student in the Honors College at the University of Illinois Chicago.
 
-Here are some ideas to get you started:
+My long-term goal is to work at the intersection of **computer engineering and healthcare**, with a focus on embedded systems, medical devices, sensors, wearable technology, robotics, and intelligent healthcare systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 B.S. Computer Engineering @ University of Illinois Chicago
+- ⚡ Interested in embedded systems and electronics
+- 🩺 Interested in medical devices and healthcare technology
+- 🤖 Exploring robotics, artificial intelligence, and computer vision
+- 🏥 Experience working in a medical-practice environment
+- 🔬 Interested in undergraduate research involving engineering and medicine
+- 📍 Chicago area
+
+## Currently Learning
+
+- Java
+- MATLAB
+- Circuit analysis
+- Ohm's Law
+- Kirchhoff's Current Law (KCL)
+- Kirchhoff's Voltage Law (KVL)
+- Breadboarding and electronics fundamentals
+
+## What I'm Building Toward
+
+- Embedded systems
+- Biosensors
+- Wearable health technology
+- Patient monitoring systems
+- Internet of Medical Things
+- Robotics and assistive technology
+- Edge AI for medical devices
+
+## Connect With Me
+
+- LinkedIn: [Kerolos Roufaeil](https://www.linkedin.com/in/kerolos-roufaeil-a4b721419)
+- GitHub: [@kerolosfan](https://github.com/kerolosfan)
